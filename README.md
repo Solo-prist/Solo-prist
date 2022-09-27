@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solo-prist
+- 👋 Hi, I’m @Solomon
 - 👀 I’m interested in protein engineeringhttps
 - 🌱 I’m currently learning Bioinformatics skill set
 - 💞️ I’m looking to collaborate on Protein design, engineering to perform a particular Chemistry ...
